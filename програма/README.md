@@ -155,3 +155,25 @@
 
 
 
+
+2
+3
+4
+5
+ 
+Form2 f2 = new Form2();
+Form1 f1 = new Form1(); 
+f2.show();
+f1.Close();
+
+
+
+2
+3
+4
+5
+Hide()
+ Form2 f2 = new Form2();
+ f2.ShowDialog();
+ this.Close();
+ break;
